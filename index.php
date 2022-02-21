@@ -15,5 +15,3 @@
     <li><a href="cucumbersalad.index" target= "_blank"> cucumbersalad </a> </li>
     <li><a href="Pineapple%20chicken.index" target= "_blank"> Pineapple chicken </a> </li>
   </ul>
-  </body>
-</html>
