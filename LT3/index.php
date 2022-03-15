@@ -4,7 +4,7 @@
     <title> My Home Page </title>
   </head>
   <body>
-  <h1> Welcome to My Website! I am Jahziel Banne! </h1>
+  <h1> Welcome to My Website! I Cathlyn mae Jandoquile </h1>
   <ul>
     <li><a href="index.php" target="_blank"> HOME </a></li>
     <li><a href="/mywebsite.html" target= "_blank"> LEARNING TASK 2 </a> </li>
