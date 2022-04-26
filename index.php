@@ -13,6 +13,7 @@
    <li><a href="/CLEI MIDTERM/index.html" target= "_blank"> CLE1MT </a> </li>
     <li><a href="/LT4/index.html" target= "_blank"> LEARNING TASK 4 </a> </li>
   </ul>
+<li><a href="/LT5/index.html" target= "_blank"> LEARNING TASK 5 </a> </li>
     <li><a href="index.php" target="_blank"> HOME </a></li>
     <li><a href="Pineapple%20chicken.html" target= "_blank"> pineapple chicken </a> </li>
     <li><a href="omelette.html" target= "_blank"> omelette </a> </li>
