@@ -23,5 +23,6 @@
     <li><a href="chili%20con%20carne.html" target= "_blank"> chili con carne </a> </li>
     <li><a href="cucumbersalad.html" target= "_blank"> cucumber salad </a> </li>
   </ul>
+<li><a href="/Paralax effect/index.html" target= "_blank"> Paralax effect </a> </li>
   </body>
 </html>
