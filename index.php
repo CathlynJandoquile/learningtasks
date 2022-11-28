@@ -24,6 +24,6 @@
     <li><a href="cucumbersalad.html" target= "_blank"> cucumber salad </a> </li>
   </ul>
 <li><a href="/Paralax Effect/index.html" target= "_blank"> Paralax Effect </a> </li>
-<li><a href="/Project/index.html" target= "_blank"> Project </a> </li>
+<li><a href="/practice/index.html" target= "_blank"> practice </a> </li>
   </body>
 </html>
